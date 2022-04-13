@@ -1,0 +1,21 @@
+15 qs, 20mins.
+objectives.
+no negative marking.
+
+
+suppose in a 2 digit number, the LSD is y and the 10th place has x.
+Number = 10x+y
+
+rev_n = rev_n * 10 + n%10;
+n/=10;
+
+
+when aa set of instructions are repeatedly required for execution at different points in the program, we write a function definition
+for those group of statements normally at the beginning of the program. The functioon will be called by its name and as when its
+is required to be executed.
+
+formal parameter is nothing but a declarztion statement.
+
+fp = apssign to the following parammeter
+in c, char and int can be used interchangeably.
+c

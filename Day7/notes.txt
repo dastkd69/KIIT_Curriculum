@@ -1,0 +1,32 @@
+C programming is sometimes called as a block structure language. Also called procedural language.
+Block is comparable to paragraph.
+
+
+Decision Statements
+if 
+Expression: It can be any type of statement returning an integer value.
+
+
+
+q1) WAP to give 60 mark grace if age is below 50 else give 40 marks grace.
+q2) WAP to print KIIT student if you are in class 1 to 12 else print KIIT University student.
+q3) WAP to display whether the wheatstone bridge is balanced or not and if not found the value of 
+    the variable resistance to balance the bridge. P/Q = R/S PxS=QxR R1xR4 = R2xR3
+q4) WAP to print the largest among 5 numbers.
+q5) WAP If basic salary is < Rs. 1500, then HRA = 10% and DA = 40% of basic salary else HRA = Rs. 500 
+    and DA = 50% of basic salary. Find gross.
+q6) Given 3 points in 2D display they form triangle or not.
+q7) WAP to display whether a vehicle movew with constant velocity/acceleration/deceleration.
+q8) WAP to display the position, size and type of images formed by a concave mirror. (expamd to promjemt)
+    u                   v                   size                    nature
+    Infinity            At F                Highly diminished       Real and Inverted
+    Beyond C            Between F and C     Diminished              Real and Inverted
+    At C                At C                Same                    Real and Inverted
+    Between C and F     Beyond C            Enlarged                Real and Inverted
+    At F                Infinty             Highly Enlarged         Real and Inverted
+
+a number range is -8 to 7, therefore infinite is 8 and -infinite is -9
+b = a++
+statement will return 0
+b = 0
+a = 1

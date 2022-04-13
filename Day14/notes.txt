@@ -1,0 +1,27 @@
+10 variables.
+Every variable must be allocated data types. Int takes 2 bytes.
+
+
+elements of an array c an be accessed by [] and *
+
+
+the address od ith element is equal to starting address of array + i*size of each element
+int is 2 bytes
+float is 4 bytes
+
+memory locations will be &cat[8] 
+
+
+read 10 data from keyboard
+
+
+wap to find avg marks by a class of 20 students in a test and count who scored 90 and above
+
+wap to see if an item is preent in the array or not, if presnt display position (right to left). Function. Array should be the local variable to he function.
+another functiom, with 3 params -
+item, int l, int r
+
+
+
+MATRIX MULTIPLY
+WAP TO DISPLAY LARGEST OF MAIN DIAGONAL OF 2-DIMENSIONAL MATRIX

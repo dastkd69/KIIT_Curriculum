@@ -1,0 +1,15 @@
+s2 must return int value
+
+
+WAP to print 123456789 on different lines
+
+WAP to enter 10 numbers from the keyboard  and count odd numbers, find their sum.
+
+65, had it been 67
+
+
+display all prime numbers from 2 to 100
+
+Wap to unput a number and find its factorial.
+WAP to fibonacci upto number
+Wap to find sum of digits.
