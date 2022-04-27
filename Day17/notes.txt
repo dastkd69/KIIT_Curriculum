@@ -1,0 +1,6 @@
+If array starts from 5000
+
+&a = The starting address of the whole array. Therefore address of a group of elements. = 5000
+*&a = address of the first element = 5000
+*a = 5 (first element)
+*(a+1) = 
