@@ -13,7 +13,7 @@ int data_read(int arr[20][20]){
 
 void main(){
     int arr[20][20], sum=0;
-    printf("Reading file data.in...\n");
+    printf("Reading file q1.txt...\n");
     data_read(arr);
     for(int i=0; i<20; i++){
         for(int j=0; j<20; j++)

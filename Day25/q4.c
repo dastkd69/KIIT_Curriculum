@@ -26,7 +26,7 @@ int data_read(int arr[20][20]){
 }
 
 void main(){
-    printf("Enter the last column value: \n");
+    printf("Enter the last column value: ");
     int ch;
     scanf("%d", &ch);
     printf("Creating file data.in...\n");

@@ -13,7 +13,7 @@ int data_write(){
 }
 
 void main(){
-    printf("Creating file data.in...\n");
+    printf("Creating file q1.txt...\n");
     data_write();
     printf("Successfully created file!\n");
 }
